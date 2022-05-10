@@ -3,9 +3,9 @@ title: 字数站
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: 梦
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 理想
 url: "http://leopardpan.cn"
 
 # 博客是否自动生成目录，false为不生成
@@ -61,14 +61,14 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 字数主页
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 字数文章, description: archive, url: '/archive'}   
+    - {title: 01101100 01100001 01100010 01100101 01101100, description: tags, url: '/tags'}      
     - {title: 技术支持, description: support, url: '/support'}      
-    - {title: 关于我, description: about, url: '/about'}   
+    - {title: 关于字数, description: about, url: '/about'}   
     
 
 # Pagination
