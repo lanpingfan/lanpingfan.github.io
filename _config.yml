@@ -56,7 +56,7 @@ blog_button:
 # Navigation buttons in the front page.s
 nav:
     - {title: 字数文章, description: archive, url: '/archive'}   
-    - {title: 01101100 01100001 01100010 01100101 01101100, description: tags, url: '/tags'}      
+    - {title: 标签, description: tags, url: '/tags'}      
       - {title: 关于字数, description: about, url: '/about'}   
     
 
